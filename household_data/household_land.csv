@@ -1,0 +1,122 @@
+,,haupt_und_nebenwohnsitz,haupt_und_nebenwohnsitz,haupt_und_nebenwohnsitz,haupt_und_nebenwohnsitz,haupt_und_nebenwohnsitz,haupt_und_nebenwohnsitz,hauptwohnsitz,hauptwohnsitz,hauptwohnsitz,hauptwohnsitz,hauptwohnsitz,hauptwohnsitz
+,,one_person,tot,three_persons,five_plus_persons,four_persons,two_persons,one_person,tot,three_persons,five_plus_persons,four_persons,two_persons
+"('location', 'land')","('location', 'type')",,,,,,,,,,,,
+Baden-Württemberg,Insgesamt,2066,5278,661,225,587,1740,1977,5162,657,225,585,1718
+Baden-Württemberg,Stadtregion,1332,3216,390,122,337,1036,1274,3143,389,121,336,1023
+Baden-Württemberg,Metropolitane Stadtregion (MPS),747,1775,215,68,183,563,712,1733,214,67,182,557
+Baden-Württemberg,Regiopolitane Stadtregion (RPS),585,1442,175,54,154,473,562,1410,175,54,154,465
+Baden-Württemberg,Ländliche Region,734,2062,271,104,250,704,703,2019,269,103,249,695
+Baden-Württemberg,Stadtregionsnahe ländliche Region (SLR),469,1306,175,61,154,447,454,1282,173,61,153,441
+Baden-Württemberg,Periphere ländliche Region (PLR),264,756,96,43,96,257,249,737,95,42,96,254
+Bayern,Insgesamt,2701,6447,787,227,676,2056,2573,6278,782,225,673,2025
+Bayern,Stadtregion,1515,3345,386,109,324,1012,1439,3255,384,108,323,1002
+Bayern,Metropolitane Stadtregion (MPS),1030,2250,255,70,215,679,989,2198,254,69,215,671
+Bayern,Regiopolitane Stadtregion (RPS),485,1096,130,39,108,333,450,1057,130,39,108,330
+Bayern,Ländliche Region,1187,3101,401,118,353,1043,1134,3023,398,117,350,1023
+Bayern,Stadtregionsnahe ländliche Region (SLR),384,1005,126,38,119,338,366,982,126,38,118,334
+Bayern,Periphere ländliche Region (PLR),803,2096,275,79,234,706,769,2041,273,79,232,689
+Bremen,Insgesamt,182,365,36,13,25,109,179,361,36,13,25,108
+Bremen,Stadtregion,182,365,36,13,25,109,179,361,36,13,25,108
+Bremen,Metropolitane Stadtregion (MPS),182,365,36,13,25,109,179,361,36,13,25,108
+Bremen,Regiopolitane Stadtregion (RPS),X,X,X,X,X,X,X,X,X,X,X,X
+Bremen,Ländliche Region,X,X,X,X,X,X,X,X,X,X,X,X
+Bremen,Stadtregionsnahe ländliche Region (SLR),X,X,X,X,X,X,X,X,X,X,X,X
+Bremen,Periphere ländliche Region (PLR),X,X,X,X,X,X,X,X,X,X,X,X
+Hamburg,Insgesamt,501,992,105,26,73,286,491,980,105,26,73,284
+Hamburg,Stadtregion,501,992,105,26,73,286,491,980,105,26,73,284
+Hamburg,Metropolitane Stadtregion (MPS),501,992,105,26,73,286,491,980,105,26,73,284
+Hamburg,Regiopolitane Stadtregion (RPS),X,X,X,X,X,X,X,X,X,X,X,X
+Hamburg,Ländliche Region,X,X,X,X,X,X,X,X,X,X,X,X
+Hamburg,Stadtregionsnahe ländliche Region (SLR),X,X,X,X,X,X,X,X,X,X,X,X
+Hamburg,Periphere ländliche Region (PLR),X,X,X,X,X,X,X,X,X,X,X,X
+Hessen,Insgesamt,1261,3065,385,110,305,1004,1215,3008,383,110,303,997
+Hessen,Stadtregion,857,2027,249,73,199,650,823,1985,247,72,197,645
+Hessen,Metropolitane Stadtregion (MPS),740,1743,214,65,175,549,710,1705,212,64,174,544
+Hessen,Regiopolitane Stadtregion (RPS),116,284,35,8,23,101,113,280,35,8,23,101
+Hessen,Ländliche Region,404,1038,136,37,106,354,392,1023,136,37,106,352
+Hessen,Stadtregionsnahe ländliche Region (SLR),233,588,76,20,59,200,227,580,76,20,59,198
+Hessen,Periphere ländliche Region (PLR),171,450,60,17,48,155,165,443,60,17,48,153
+Niedersachsen,Insgesamt,1684,3972,452,142,371,1323,1632,3909,450,142,370,1314
+Niedersachsen,Stadtregion,1007,2303,251,72,204,769,975,2265,250,71,204,765
+Niedersachsen,Metropolitane Stadtregion (MPS),525,1234,137,40,116,416,510,1216,136,40,115,414
+Niedersachsen,Regiopolitane Stadtregion (RPS),482,1069,114,31,88,353,465,1049,114,31,88,351
+Niedersachsen,Ländliche Region,676,1669,201,71,167,554,657,1643,200,70,167,549
+Niedersachsen,Stadtregionsnahe ländliche Region (SLR),309,779,94,34,78,264,300,769,94,34,78,262
+Niedersachsen,Periphere ländliche Region (PLR),368,890,107,36,89,290,357,875,106,36,88,287
+Nordrhein-Westfalen,Insgesamt,3563,8766,1087,332,815,2969,3518,8710,1085,332,814,2961
+Nordrhein-Westfalen,Stadtregion,2998,7118,855,259,634,2373,2960,7071,853,259,633,2367
+Nordrhein-Westfalen,Metropolitane Stadtregion (MPS),2348,5536,660,192,485,1850,2320,5502,658,192,485,1847
+Nordrhein-Westfalen,Regiopolitane Stadtregion (RPS),649,1582,195,67,148,523,640,1570,194,67,148,521
+Nordrhein-Westfalen,Ländliche Region,566,1648,232,73,181,596,559,1639,232,73,181,594
+Nordrhein-Westfalen,Stadtregionsnahe ländliche Region (SLR),524,1524,217,68,168,548,518,1517,217,67,168,546
+Nordrhein-Westfalen,Periphere ländliche Region (PLR),41,124,15,5,14,48,40,122,15,5,14,47
+Rheinland-Pfalz,Insgesamt,746,1958,259,72,203,679,728,1934,258,72,202,673
+Rheinland-Pfalz,Stadtregion,436,1085,140,40,108,361,425,1071,140,40,108,359
+Rheinland-Pfalz,Metropolitane Stadtregion (MPS),216,524,65,19,52,172,211,518,65,19,52,171
+Rheinland-Pfalz,Regiopolitane Stadtregion (RPS),220,560,75,20,56,189,213,552,75,20,55,188
+Rheinland-Pfalz,Ländliche Region,310,874,119,33,95,317,303,863,119,33,95,314
+Rheinland-Pfalz,Stadtregionsnahe ländliche Region (SLR),250,701,96,26,77,251,245,693,96,26,77,249
+Rheinland-Pfalz,Periphere ländliche Region (PLR),60,172,23,6,18,66,58,170,22,6,18,65
+Saarland,Insgesamt,200,493,69,15,42,168,198,491,69,15,42,168
+Saarland,Stadtregion,167,394,54,10,32,131,165,391,53,10,32,131
+Saarland,Metropolitane Stadtregion (MPS),X,X,X,X,X,X,X,X,X,X,X,X
+Saarland,Regiopolitane Stadtregion (RPS),167,394,54,10,32,131,165,391,53,10,32,131
+Saarland,Ländliche Region,33,100,16,/,10,37,33,100,16,/,10,37
+Saarland,Stadtregionsnahe ländliche Region (SLR),31,93,15,/,9,34,31,93,15,/,9,34
+Saarland,Periphere ländliche Region (PLR),/,7,/,/,/,/,/,7,/,/,/,/
+Schleswig-Holstein,Insgesamt,613,1470,164,45,126,521,598,1439,163,44,126,508
+Schleswig-Holstein,Stadtregion,372,870,102,24,77,295,365,859,102,24,77,290
+Schleswig-Holstein,Metropolitane Stadtregion (MPS),159,423,58,12,43,151,158,420,58,12,43,150
+Schleswig-Holstein,Regiopolitane Stadtregion (RPS),213,447,45,12,34,144,208,439,44,12,34,141
+Schleswig-Holstein,Ländliche Region,242,600,62,21,49,226,232,580,61,20,49,218
+Schleswig-Holstein,Stadtregionsnahe ländliche Region (SLR),105,266,28,9,21,103,101,259,28,9,21,100
+Schleswig-Holstein,Periphere ländliche Region (PLR),137,334,34,11,28,124,131,321,33,11,28,118
+Neue Länder einschl. Berlin,Insgesamt,3745,8497,967,190,600,2996,3680,8412,964,190,598,2980
+Neue Länder einschl. Berlin,Stadtregion,2360,5020,539,111,350,1660,2316,4963,537,111,349,1650
+Neue Länder einschl. Berlin,Metropolitane Stadtregion (MPS),1798,3752,401,89,261,1203,1766,3710,400,89,260,1195
+Neue Länder einschl. Berlin,Regiopolitane Stadtregion (RPS),562,1268,138,22,89,457,550,1253,138,22,89,455
+Neue Länder einschl. Berlin,Ländliche Region,1386,3477,428,79,249,1336,1364,3449,426,79,249,1331
+Neue Länder einschl. Berlin,Stadtregionsnahe ländliche Region (SLR),531,1333,164,29,93,517,523,1323,163,29,93,515
+Neue Länder einschl. Berlin,Periphere ländliche Region (PLR),855,2144,264,50,156,819,841,2125,263,50,156,815
+Berlin,Insgesamt,1049,2003,193,54,127,580,1032,1980,193,54,127,575
+Berlin,Stadtregion,1049,2003,193,54,127,580,1032,1980,193,54,127,575
+Berlin,Metropolitane Stadtregion (MPS),1049,2003,193,54,127,580,1032,1980,193,54,127,575
+Berlin,Regiopolitane Stadtregion (RPS),X,X,X,X,X,X,X,X,X,X,X,X
+Berlin,Ländliche Region,X,X,X,X,X,X,X,X,X,X,X,X
+Berlin,Stadtregionsnahe ländliche Region (SLR),X,X,X,X,X,X,X,X,X,X,X,X
+Berlin,Periphere ländliche Region (PLR),X,X,X,X,X,X,X,X,X,X,X,X
+Brandenburg,Insgesamt,480,1249,161,27,102,479,473,1239,161,27,102,477
+Brandenburg,Stadtregion,250,682,94,14,64,261,245,676,94,14,64,260
+Brandenburg,Metropolitane Stadtregion (MPS),207,585,85,12,55,225,203,579,85,12,55,224
+Brandenburg,Regiopolitane Stadtregion (RPS),42,98,9,/,9,36,42,97,9,/,9,36
+Brandenburg,Ländliche Region,230,567,67,14,38,218,228,563,67,14,38,217
+Brandenburg,Stadtregionsnahe ländliche Region (SLR),27,71,8,/,6,28,27,71,8,/,6,28
+Brandenburg,Periphere ländliche Region (PLR),204,496,59,11,32,190,201,492,58,11,32,189
+Mecklenburg-Vorpommern,Insgesamt,335,826,97,19,59,315,329,817,97,19,59,313
+Mecklenburg-Vorpommern,Stadtregion,118,268,28,5,16,101,116,266,28,5,16,101
+Mecklenburg-Vorpommern,Metropolitane Stadtregion (MPS),X,X,X,X,X,X,X,X,X,X,X,X
+Mecklenburg-Vorpommern,Regiopolitane Stadtregion (RPS),118,268,28,5,16,101,116,266,28,5,16,101
+Mecklenburg-Vorpommern,Ländliche Region,217,558,69,14,43,214,213,551,69,14,43,212
+Mecklenburg-Vorpommern,Stadtregionsnahe ländliche Region (SLR),62,158,19,/,11,61,62,157,19,/,11,61
+Mecklenburg-Vorpommern,Periphere ländliche Region (PLR),155,400,51,10,33,152,151,394,50,10,32,151
+Sachsen,Insgesamt,930,2144,233,43,161,777,912,2121,232,43,161,774
+Sachsen,Stadtregion,583,1273,133,23,92,442,571,1258,133,23,92,439
+Sachsen,Metropolitane Stadtregion (MPS),450,966,99,19,68,330,441,954,99,18,68,327
+Sachsen,Regiopolitane Stadtregion (RPS),133,307,33,/,24,112,130,304,33,/,24,112
+Sachsen,Ländliche Region,346,871,100,19,69,336,341,863,100,19,69,335
+Sachsen,Stadtregionsnahe ländliche Region (SLR),158,386,45,7,31,146,154,382,45,7,31,145
+Sachsen,Periphere ländliche Region (PLR),189,485,55,13,38,190,186,481,55,13,38,190
+Sachsen-Anhalt,Insgesamt,496,1173,141,22,72,442,490,1165,141,22,72,440
+Sachsen-Anhalt,Stadtregion,210,461,52,8,28,163,207,457,52,8,28,162
+Sachsen-Anhalt,Metropolitane Stadtregion (MPS),92,199,23,/,11,69,90,197,23,/,11,69
+Sachsen-Anhalt,Regiopolitane Stadtregion (RPS),118,262,29,/,17,93,116,260,29,/,17,93
+Sachsen-Anhalt,Ländliche Region,286,712,90,13,44,279,283,708,89,13,44,278
+Sachsen-Anhalt,Stadtregionsnahe ländliche Region (SLR),144,365,45,7,22,147,143,363,45,7,22,146
+Sachsen-Anhalt,Periphere ländliche Region (PLR),142,347,44,6,22,133,140,345,44,6,22,132
+Thüringen,Insgesamt,456,1102,140,25,78,403,445,1090,140,25,78,402
+Thüringen,Stadtregion,150,332,39,7,23,114,145,327,38,7,23,113
+Thüringen,Metropolitane Stadtregion (MPS),X,X,X,X,X,X,X,X,X,X,X,X
+Thüringen,Regiopolitane Stadtregion (RPS),150,332,39,7,23,114,145,327,38,7,23,113
+Thüringen,Ländliche Region,306,770,102,19,55,289,300,763,102,19,55,289
+Thüringen,Stadtregionsnahe ländliche Region (SLR),140,354,47,9,23,135,137,351,47,9,23,135
+Thüringen,Periphere ländliche Region (PLR),166,416,55,10,32,154,163,413,55,10,31,154
