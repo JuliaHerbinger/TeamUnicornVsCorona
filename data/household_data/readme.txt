@@ -1,0 +1,1 @@
+Source: https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bevoelkerung/Haushalte-Familien/Tabellen/sonderauswertung-haushalte-regiostar.html
